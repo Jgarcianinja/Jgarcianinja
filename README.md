@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasiel Garcia</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- Hi, I am currently working on **Portfolio**
+
 
 - 📫 How to reach me **jasiel.garcia@student.shu.edu**
 
